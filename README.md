@@ -23,3 +23,8 @@
 - comparison with observational data
 - barycenter movment for orbits. May be used for out-of-ordinary orbits (see example at the Bonus section). Not very useful for realistic situations due to negligible effect on planetary systems, but can be used to produce something like this: https://www.youtube.com/watch?v=0jHsq36_NTU
 - sub orbits cann be attached to orbits. Sub orbits are itself orbtis so can have their own sub orbits. Only limitation is that all than orbit names in one systems should be unique.
+
+
+## Solidity
+
+Convert the Orbit python library to solidity.
